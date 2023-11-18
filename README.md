@@ -17,3 +17,5 @@ Si se está en Linux o macOS escribir:
 Finalmente para correr el programa escribir:
 
 ### `npm start`
+
+Esto debería hacer correr el programa en la dirección "localhost:3000"
