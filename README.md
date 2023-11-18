@@ -1,6 +1,8 @@
 ## Instrucciones para ejecución
 
-Acceder al directorio donde se encuentra el proyecto y escribir: 
+Primero que nada, se debe tener instalado Node.js en el dispositivo.
+
+Una vez instalado se debe acceder al directorio donde se encuentra el proyecto y escribir: 
 
 ### `npm install`
 
